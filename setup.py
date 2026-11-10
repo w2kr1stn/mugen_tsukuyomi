@@ -3,16 +3,16 @@ tsukuyomi microservice
 The python implementation of helpful and somehow generic functions
 
 Created: April 2022
-@author: Willi Kristen
+@author: wallace schwein
 
-@license: Willi Kristen:
-Copyright (c) 2022 Willi Kristen, Germany
-https://de.linkedin.com/in/willi-kristen-406887218
+@license: wallace schwein:
+Copyright (c) 2022 wallace schwein, Germany
+https://github.com/w2kr1stn
 
 All rights reserved, also regarding any disposal, exploitation, reproduction, editing, distribution.
-This software is the confidential and proprietary information of Willi Kristen.
+This software is the confidential and proprietary information of wallace schwein.
 You shall not disclose such confidential information and shall use it only in accordance with the
-term s of the license agreement you entered into with Willi Kristen's software solutions.
+term s of the license agreement you entered into with wallace schwein's software solutions.
 """
 
 """setup file for project"""
@@ -23,9 +23,9 @@ setup_config = {"name": "tsukuyomi",
                 "version": "1.0.0",
                 "description": "AI-microservice for processing news articles",
                 "url": "PLACEHOLDER",
-                "author": "Willi Kristen",
-                "author_mail": "willi.kristen@live.de",
-                "license": "Willi Kristen Proprietary"}
+                "author": "wallace schwein",
+                "author_mail": "73987905+w2kr1stn@users.noreply.github.com",
+                "license": "wallace schwein Proprietary"}
 
 install_requires = ["anyio==3.6.1",
                     "blis==0.7.8",
